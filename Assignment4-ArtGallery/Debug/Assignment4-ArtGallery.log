@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(56): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(66): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(69): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(72): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(73): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(76): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(78): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(80): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(81): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(86): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(87): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(88): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(89): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(90): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ivana\documents\visual studio 2015\projects\assignment4-artgallery\assignment4-artgallery\source.cpp(91): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Assignment4-ArtGallery.vcxproj -> C:\Users\ivana\Documents\Visual Studio 2015\Projects\Assignment4-ArtGallery\Debug\Assignment4-ArtGallery.exe
+  Assignment4-ArtGallery.vcxproj -> C:\Users\ivana\Documents\Visual Studio 2015\Projects\Assignment4-ArtGallery\Debug\Assignment4-ArtGallery.pdb (Partial PDB)
