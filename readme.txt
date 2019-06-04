@@ -58,5 +58,3 @@ Texture images references:
 	'-' - night mode
 	L/l - toggle blinking lights on/off
 
-> Advanced tasks not implemented.
-
